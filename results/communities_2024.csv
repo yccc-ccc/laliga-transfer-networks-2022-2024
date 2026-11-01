@@ -1,0 +1,196 @@
+team_id,team_name,infomap_community,louvain_community
+2464,Barça Atlètic,0,0
+131,Barcelona,0,0
+9899,Real Sociedad B,1,1
+681,Real Sociedad,1,1
+1108,Alavés,2,2
+3708,Barakaldo CF ,2,2
+8880,Alavés B,2,2
+12321,Girona,0,0
+26069,Al-Qadsiah,3,3
+38006,Girona FC B,0,0
+13222,CD Mirandés,4,4
+13,Atlético Madrid,2,2
+449,Trabzonspor,5,5
+8733,Celta Fortuna,4,4
+940,Celta de Vigo,4,4
+1244,CD Leganés,6,2
+515,Without Club,6,2
+368,Sevilla FC,7,6
+2441,AEK Athens,0,0
+82801,AIK Freetong,8,3
+366,Real Valladolid,8,3
+8568,AD Ceuta ,9,1
+3709,Getafe,9,1
+150,Real Betis,10,7
+209,River Plate,7,6
+11610,Las Palmas Atl.,11,8
+472,UD Las Palmas,11,8
+232,Spartak Moscow,12,7
+5358,SD Huesca,13,8
+583,Paris SG,3,5
+1050,Villarreal,5,5
+2687,Cádiz CF,1,1
+5,AC Milan,2,2
+1403,Santos Laguna,9,1
+3302,UD Almería,14,8
+610,Ajax,12,7
+237,RCD Mallorca,14,8
+467,NEC Nijmegen,10,7
+114,Besiktas,6,2
+367,Rayo Vallecano,15,6
+1049,Valencia,16,3
+58,RSC Anderlecht,7,6
+7633,UNAM Pumas,2,2
+621,Athletic,4,4
+683,Olympiacos,4,4
+15817,Johor DT,6,2
+16,Bor. Dortmund,14,8
+2697,Sanf. Hiroshima,4,4
+80,VfL Bochum,14,8
+281,Man City,0,0
+405,Aston Villa,16,3
+16795,Granada CF,8,3
+45457,Pafos FC,9,1
+1532,Albacete,4,3
+8023,Al-Ittihad,14,8
+418,Real Madrid,3,3
+631,Chelsea,2,2
+6574,Sassuolo,16,3
+42109,Karmiotissa,15,6
+23826,RB Leipzig,2,2
+2524,Al-Jazira,10,7
+897,Dep. La Coruña,11,8
+1047,Como,5,5
+3508,Zulte Waregem,6,2
+2407,Monterrey,7,6
+331,CA Osasuna,13,8
+2448,Sporting Gijón,11,4
+2282,Club Brugge,16,3
+543,Wolves,5,5
+2156,AEK Larnaca,6,2
+2497,Real Oviedo,11,8
+714,Espanyol,12,7
+800,Atalanta BC,2,2
+3368,Levante,6,2
+416,Torino,14,8
+399,Leeds,10,7
+989,Bournemouth,9,1
+648,CD Tenerife,7,6
+703,Forest,7,8
+15,B. Leverkusen,10,7
+1533,SD Eibar,2,2
+124,Rangers,2,2
+91427,Al-Kholood ,10,7
+71665,Al-Okhdood,10,7
+605,Aris Saloniki,8,3
+244,Marseille,5,5
+985,Man Utd,9,1
+1003,Leicester,7,6
+142,Real Zaragoza,2,2
+350,Sheff Utd,11,8
+3229,Al-Rayyan,13,8
+995,FC Nantes,16,3
+11,Arsenal,1,1
+720,FC Porto,2,2
+180,Southampton,10,7
+123,Retired,10,7
+89,Union Berlin,12,7
+377,Banik Ostrava,9,1
+16704,Krasnodar,14,8
+1075,SC Braga,0,0
+1025,Bologna,10,7
+167,FC Augsburg,12,7
+379,West Ham,1,1
+1536,Burgos CF,15,6
+12,AS Roma,12,7
+197,Sparta Prague,4,4
+148,Tottenham,12,7
+1531,Elche CF,14,8
+29,Everton,5,5
+2259,Loko Plovdiv,11,8
+383,PSV Eindhoven,0,0
+40,G. Bordeaux,15,6
+3524,Clermont Foot,16,3
+130,Parma,8,3
+2350,Millonarios,15,6
+1176,Racing Ferrol,11,4
+4294,Farense,9,1
+7077,FC Cartagena,0,0
+12574,Godoy Cruz,2,2
+36,Fenerbahce,15,6
+13241,UD Ibiza,9,1
+16575,SD Amorebieta,14,8
+1084,Málaga CF,6,4
+11972,Villarreal CF B,5,5
+1237,Brighton,7,6
+370,Aberdeen FC,0,0
+415,Toulouse,5,5
+1095,Troyes,6,2
+931,Fulham,5,5
+2410,CSKA Moscow,7,6
+31,Liverpool,16,3
+409,RB Salzburg,1,1
+3679,Atl. Madrileño,2,2
+6195,Napoli,3,7
+982,Nacional,4,4
+630,Racing,15,6
+20844,Real Avilés,11,8
+2727,OH Leuven,12,7
+2865,Betis Deportivo,10,7
+10718,FC Andorra,4,4
+46,Inter,7,6
+993,Córdoba CF,0,0
+447,Hajduk Split,8,3
+51828,LAFC,8,3
+609,Cruzeiro,8,3
+3166,Pau FC,6,2
+144,HNK Rijeka,6,2
+6767,RM Castilla,3,3
+6912,Vizela,15,6
+8024,Arouca,4,4
+8519,Sevilla Atl.,7,6
+6688,Bilbao Athletic,4,4
+54189,RWDM,2,2
+2047,AC Bellinzona,2,2
+398,Lazio,8,3
+4542,CyD Leonesa,4,4
+11596,AD Alcorcón,6,4
+8970,Frosinone,3,3
+10773,RCD Espanyol B,12,7
+171,Real Murcia,12,7
+723,Almere City,10,7
+200,FC Utrecht,4,4
+8516,Osasuna B,13,8
+1041,Olympique Lyon,10,7
+8817,Ajax U21,0,0
+9030,Botafogo-SP,9,1
+190,FC Copenhagen,1,1
+273,Stade Rennais,9,1
+122,Sturm Graz,2,2
+12567,Eldense,2,2
+5648,Gimnàstic,2,2
+336,Sporting CP,11,8
+873,Crystal Palace,10,7
+3268,Casa Pia,12,7
+6182,Valencia B,16,3
+371,Celtic,0,0
+3329,Famalicão,5,5
+27,Bayern Munich,13,8
+13702,R. Majadahonda,6,2
+7078,Valladolid Prom,8,8
+5026,Lommel SK,0,0
+759,Slask Wroclaw,0,0
+1082,LOSC Lille,5,5
+6297,Al-Gharafa,3,3
+8494,RCD Mallorca B ,14,8
+1010,Watford,0,0
+585,São Paulo,15,6
+16022,Antequera CF,11,8
+8510,Getafe CF B,9,1
+1038,Sampdoria,0,0
+110302,Avs FS,8,3
+26,FC Basel,5,5
+210,Grêmio,12,7
+1023,Palmeiras,3,3
+475,Sint-Truiden,5,5

@@ -1,0 +1,203 @@
+team_id,team_name,infomap_community,louvain_community
+5358,SD Huesca,0,0
+237,RCD Mallorca,1,1
+150,Real Betis,2,2
+399,Leeds,2,2
+131,Barcelona,3,3
+989,Bournemouth,3,3
+631,Chelsea,3,3
+3368,Levante,4,4
+331,CA Osasuna,4,4
+13,Atlético Madrid,5,5
+515,Without Club,6,6
+16795,Granada CF,0,0
+9168,Houston,5,5
+681,Real Sociedad,7,2
+1005,Lecce,3,3
+1050,Villarreal,4,4
+13613,Sharjah FC,4,4
+1108,Alavés,6,6
+367,Rayo Vallecano,6,6
+162,Monaco,8,7
+714,Espanyol,9,1
+366,Real Valladolid,10,8
+648,CD Tenerife,6,3
+506,Juventus,5,5
+190,FC Copenhagen,7,2
+336,Sporting CP,10,8
+12321,Girona,11,7
+583,Paris SG,12,2
+940,Celta de Vigo,13,9
+1038,Sampdoria,13,9
+984,West Brom,13,9
+3709,Getafe,0,0
+897,Dep. La Coruña,10,8
+27190,SH Port,9,1
+51828,LAFC,8,7
+2321,KMSK Deinze,11,7
+1084,Málaga CF,1,1
+430,Fiorentina,8,7
+3277,U. Católica,13,9
+1049,Valencia,2,2
+467,NEC Nijmegen,9,1
+7971,Hércules CF,0,0
+630,Racing,12,5
+2687,Cádiz CF,10,8
+2441,AEK Athens,13,9
+13222,CD Mirandés,5,5
+7633,UNAM Pumas,3,3
+3302,UD Almería,6,6
+1533,SD Eibar,12,5
+418,Real Madrid,8,7
+985,Man Utd,3,3
+368,Sevilla FC,3,3
+405,Aston Villa,3,3
+1095,Troyes,3,3
+683,Olympiacos,8,7
+1237,Brighton,4,4
+16486,CF Fuenlabrada,6,6
+1536,Burgos CF,10,8
+24,E. Frankfurt,13,9
+380,Salernitana,9,4
+16704,Krasnodar,9,1
+148,Tottenham,4,4
+3999,PAS Lamia,6,6
+1531,Elche CF,14,4
+9982,HN FC,14,4
+6600,Internacional,13,9
+610,Ajax,3,3
+1421,Stade Reims,1,1
+11,Arsenal,2,3
+621,Athletic,12,5
+5,AC Milan,3,3
+931,Fulham,11,7
+3612,Al-Ahli SC,6,6
+80,VfL Bochum,10,8
+244,Marseille,14,4
+2423,Santa Clara,4,4
+1244,CD Leganés,4,4
+543,Wolves,3,3
+3840,Adana Demirspor,7,1
+7077,FC Cartagena,11,7
+142,Real Zaragoza,10,8
+337,Birmingham,10,8
+221,Santos,6,6
+159,Red Star,6,6
+1082,LOSC Lille,5,5
+4673,Arsenal Sarandí,14,4
+23826,RB Leipzig,7,2
+234,Feyenoord,3,3
+385,Fortuna Sittard,12,5
+1435,Go Ahead Eagles,12,4
+79,VfB Stuttgart,1,1
+9840,Al-Shabab,13,9
+865,FC Midtjylland,10,8
+398,Lazio,1,1
+209,River Plate,0,0
+8733,Celta Vigo B,13,9
+1184,KRC Genk,10,8
+472,UD Las Palmas,2,4
+13241,UD Ibiza,9,6
+12,AS Roma,8,7
+141,Galatasaray,3,3
+417,OGC Nice,3,3
+6646,Karagümrük,13,9
+11000,CD Lugo,10,8
+2448,Sporting Gijón,11,3
+232,Spartak Moscow,14,4
+11972,Villarreal CF B,4,4
+123,Retired,10,8
+1010,Watford,4,4
+3522,Spezia Calcio,3,3
+1304,Heracles Almelo,13,9
+197,Sparta Prague,0,0
+1465,Estoril,1,1
+1061,LA Galaxy,3,3
+60551,SC Dnipro-1,6,6
+2497,Real Oviedo,2,2
+410,Udinese,5,5
+16575,SD Amorebieta,12,5
+762,Newcastle,14,4
+1091,PAOK Salonika,1,1
+16,Bor. Dortmund,8,7
+44,Hertha BSC,0,2
+294,Benfica,0,0
+24575,HNK Gorica,3,3
+1075,SC Braga,2,2
+10718,FC Andorra,12,5
+1532,Albacete,11,4
+2420,Vit. Guimarães,6,6
+6195,Napoli,0,0
+281,Man City,11,7
+27,Bayern Munich,3,3
+1041,Olympique Lyon,1,2
+4032,Ponferradina,1,4
+449,Trabzonspor,2,2
+11596,AD Alcorcón,2,2
+3329,Famalicão,5,4
+3948,Union SG,4,4
+9899,Real Sociedad B,7,2
+3187,TJ Jinmen Tiger,9,1
+202,FC Groningen,13,9
+114,Besiktas,3,3
+1158,FC Lorient,6,6
+9265,Man City U23,11,7
+703,Forest,5,5
+6688,Bilbao Athletic,12,5
+11669,Cádiz B,10,8
+10773,RCD Espanyol B,9,1
+6767,RM Castilla,8,7
+3705,Algeciras CF,10,8
+8516,Osasuna B,4,4
+40058,New York City,11,7
+2425,Rio Ave,13,9
+7078,Valladolid Prom,10,8
+200,FC Utrecht,7,2
+7179,Tondela,7,2
+11259,CD Alcoyano,14,4
+11986,UD Almería B,6,6
+6912,Vizela,10,8
+20760,Bandirmaspor,10,8
+720,FC Porto,13,9
+288,Estudiantes LP,14,4
+8494,RCD Mallorca B ,1,1
+2865,Betis Deportivo,2,2
+2464,Barça Atlètic,3,3
+614,Flamengo,6,6
+537,Botafogo,6,6
+11422,CE Sabadell ,11,7
+38006,Girona FC B,11,7
+39815,NY Red Bulls II,10,8
+19309,Independiente,10,8
+1176,Racing Ferrol,14,4
+12181,San Fernando CD,11,7
+866,Nacional,10,8
+8519,Sevilla Atl.,3,3
+235,RKC Waalwijk,13,9
+12317,Elche Ilicitano,14,4
+24420,UD Logroñés,11,7
+2156,AEK Larnaca,4,4
+206,Bröndby IF,5,5
+171,Real Murcia,11,6
+2470,Barça U19,6,6
+8510,Getafe CF B,0,0
+3631,América,13,9
+18074,Boston River,6,6
+861,Peñarol,6,6
+180,Southampton,11,7
+5026,Lommel SK,9,1
+3679,Atl. Madrileño,5,5
+1420,Angers SCO,7,2
+641,Middlesbrough,1,1
+2424,Gil Vicente,5,5
+993,Córdoba CF,6,6
+4542,CyD Leonesa,6,6
+383,PSV Eindhoven,3,3
+1775,San Lorenzo,14,4
+1059,Hammarby,13,9
+2462,Fluminense,2,2
+45457,Pafos FC,9,1
+52397,Unionistas CF,14,4
+1418,Rosario Central,14,4
+669,Partizan,6,6
+607,Venezia,2,2

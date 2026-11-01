@@ -1,0 +1,4 @@
+window,events,transfers,loans,loan_returns,unique_players,events_with_positive_fee,total_fee_eur,fee_coverage_pct
+2022,540,264,125,151,405,84,864590000.0,15.6
+2023,512,250,112,150,373,105,949380000.0,20.5
+2024,505,272,96,137,388,105,981395000.0,20.8

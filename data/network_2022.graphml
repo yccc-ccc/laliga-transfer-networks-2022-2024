@@ -1,0 +1,2455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="fee" attr.type="long"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="name" attr.type="string"/>
+<graph edgedefault="directed"><node id="5358">
+  <data key="d0">SD Huesca</data>
+</node>
+<node id="237">
+  <data key="d0">RCD Mallorca</data>
+</node>
+<node id="150">
+  <data key="d0">Real Betis</data>
+</node>
+<node id="399">
+  <data key="d0">Leeds</data>
+</node>
+<node id="131">
+  <data key="d0">Barcelona</data>
+</node>
+<node id="989">
+  <data key="d0">Bournemouth</data>
+</node>
+<node id="631">
+  <data key="d0">Chelsea</data>
+</node>
+<node id="3368">
+  <data key="d0">Levante</data>
+</node>
+<node id="331">
+  <data key="d0">CA Osasuna</data>
+</node>
+<node id="13">
+  <data key="d0">Atlético Madrid</data>
+</node>
+<node id="515">
+  <data key="d0">Without Club</data>
+</node>
+<node id="16795">
+  <data key="d0">Granada CF</data>
+</node>
+<node id="9168">
+  <data key="d0">Houston</data>
+</node>
+<node id="681">
+  <data key="d0">Real Sociedad</data>
+</node>
+<node id="1005">
+  <data key="d0">Lecce</data>
+</node>
+<node id="1050">
+  <data key="d0">Villarreal</data>
+</node>
+<node id="13613">
+  <data key="d0">Sharjah FC</data>
+</node>
+<node id="1108">
+  <data key="d0">Alavés</data>
+</node>
+<node id="367">
+  <data key="d0">Rayo Vallecano</data>
+</node>
+<node id="162">
+  <data key="d0">Monaco</data>
+</node>
+<node id="714">
+  <data key="d0">Espanyol</data>
+</node>
+<node id="366">
+  <data key="d0">Real Valladolid</data>
+</node>
+<node id="648">
+  <data key="d0">CD Tenerife</data>
+</node>
+<node id="506">
+  <data key="d0">Juventus</data>
+</node>
+<node id="190">
+  <data key="d0">FC Copenhagen</data>
+</node>
+<node id="336">
+  <data key="d0">Sporting CP</data>
+</node>
+<node id="12321">
+  <data key="d0">Girona</data>
+</node>
+<node id="583">
+  <data key="d0">Paris SG</data>
+</node>
+<node id="940">
+  <data key="d0">Celta de Vigo</data>
+</node>
+<node id="1038">
+  <data key="d0">Sampdoria</data>
+</node>
+<node id="984">
+  <data key="d0">West Brom</data>
+</node>
+<node id="3709">
+  <data key="d0">Getafe</data>
+</node>
+<node id="897">
+  <data key="d0">Dep. La Coruña</data>
+</node>
+<node id="27190">
+  <data key="d0">SH Port</data>
+</node>
+<node id="51828">
+  <data key="d0">LAFC</data>
+</node>
+<node id="2321">
+  <data key="d0">KMSK Deinze</data>
+</node>
+<node id="1084">
+  <data key="d0">Málaga CF</data>
+</node>
+<node id="430">
+  <data key="d0">Fiorentina</data>
+</node>
+<node id="3277">
+  <data key="d0">U. Católica</data>
+</node>
+<node id="1049">
+  <data key="d0">Valencia</data>
+</node>
+<node id="467">
+  <data key="d0">NEC Nijmegen</data>
+</node>
+<node id="7971">
+  <data key="d0">Hércules CF</data>
+</node>
+<node id="630">
+  <data key="d0">Racing</data>
+</node>
+<node id="2687">
+  <data key="d0">Cádiz CF</data>
+</node>
+<node id="2441">
+  <data key="d0">AEK Athens</data>
+</node>
+<node id="13222">
+  <data key="d0">CD Mirandés</data>
+</node>
+<node id="7633">
+  <data key="d0">UNAM Pumas</data>
+</node>
+<node id="3302">
+  <data key="d0">UD Almería</data>
+</node>
+<node id="1533">
+  <data key="d0">SD Eibar</data>
+</node>
+<node id="418">
+  <data key="d0">Real Madrid</data>
+</node>
+<node id="985">
+  <data key="d0">Man Utd</data>
+</node>
+<node id="368">
+  <data key="d0">Sevilla FC</data>
+</node>
+<node id="405">
+  <data key="d0">Aston Villa</data>
+</node>
+<node id="1095">
+  <data key="d0">Troyes</data>
+</node>
+<node id="683">
+  <data key="d0">Olympiacos</data>
+</node>
+<node id="1237">
+  <data key="d0">Brighton</data>
+</node>
+<node id="16486">
+  <data key="d0">CF Fuenlabrada</data>
+</node>
+<node id="1536">
+  <data key="d0">Burgos CF</data>
+</node>
+<node id="24">
+  <data key="d0">E. Frankfurt</data>
+</node>
+<node id="380">
+  <data key="d0">Salernitana</data>
+</node>
+<node id="16704">
+  <data key="d0">Krasnodar</data>
+</node>
+<node id="148">
+  <data key="d0">Tottenham</data>
+</node>
+<node id="3999">
+  <data key="d0">PAS Lamia</data>
+</node>
+<node id="1531">
+  <data key="d0">Elche CF</data>
+</node>
+<node id="9982">
+  <data key="d0">HN FC</data>
+</node>
+<node id="6600">
+  <data key="d0">Internacional</data>
+</node>
+<node id="610">
+  <data key="d0">Ajax</data>
+</node>
+<node id="1421">
+  <data key="d0">Stade Reims</data>
+</node>
+<node id="11">
+  <data key="d0">Arsenal</data>
+</node>
+<node id="621">
+  <data key="d0">Athletic</data>
+</node>
+<node id="5">
+  <data key="d0">AC Milan</data>
+</node>
+<node id="931">
+  <data key="d0">Fulham</data>
+</node>
+<node id="3612">
+  <data key="d0">Al-Ahli SC</data>
+</node>
+<node id="80">
+  <data key="d0">VfL Bochum</data>
+</node>
+<node id="244">
+  <data key="d0">Marseille</data>
+</node>
+<node id="2423">
+  <data key="d0">Santa Clara</data>
+</node>
+<node id="1244">
+  <data key="d0">CD Leganés</data>
+</node>
+<node id="543">
+  <data key="d0">Wolves</data>
+</node>
+<node id="3840">
+  <data key="d0">Adana Demirspor</data>
+</node>
+<node id="7077">
+  <data key="d0">FC Cartagena</data>
+</node>
+<node id="142">
+  <data key="d0">Real Zaragoza</data>
+</node>
+<node id="337">
+  <data key="d0">Birmingham</data>
+</node>
+<node id="221">
+  <data key="d0">Santos</data>
+</node>
+<node id="159">
+  <data key="d0">Red Star</data>
+</node>
+<node id="1082">
+  <data key="d0">LOSC Lille</data>
+</node>
+<node id="4673">
+  <data key="d0">Arsenal Sarandí</data>
+</node>
+<node id="23826">
+  <data key="d0">RB Leipzig</data>
+</node>
+<node id="234">
+  <data key="d0">Feyenoord</data>
+</node>
+<node id="385">
+  <data key="d0">Fortuna Sittard</data>
+</node>
+<node id="1435">
+  <data key="d0">Go Ahead Eagles</data>
+</node>
+<node id="79">
+  <data key="d0">VfB Stuttgart</data>
+</node>
+<node id="9840">
+  <data key="d0">Al-Shabab</data>
+</node>
+<node id="865">
+  <data key="d0">FC Midtjylland</data>
+</node>
+<node id="398">
+  <data key="d0">Lazio</data>
+</node>
+<node id="209">
+  <data key="d0">River Plate</data>
+</node>
+<node id="8733">
+  <data key="d0">Celta Vigo B</data>
+</node>
+<node id="1184">
+  <data key="d0">KRC Genk</data>
+</node>
+<node id="472">
+  <data key="d0">UD Las Palmas</data>
+</node>
+<node id="13241">
+  <data key="d0">UD Ibiza</data>
+</node>
+<node id="12">
+  <data key="d0">AS Roma</data>
+</node>
+<node id="141">
+  <data key="d0">Galatasaray</data>
+</node>
+<node id="417">
+  <data key="d0">OGC Nice</data>
+</node>
+<node id="6646">
+  <data key="d0">Karagümrük</data>
+</node>
+<node id="11000">
+  <data key="d0">CD Lugo</data>
+</node>
+<node id="2448">
+  <data key="d0">Sporting Gijón</data>
+</node>
+<node id="232">
+  <data key="d0">Spartak Moscow</data>
+</node>
+<node id="11972">
+  <data key="d0">Villarreal CF B</data>
+</node>
+<node id="123">
+  <data key="d0">Retired</data>
+</node>
+<node id="1010">
+  <data key="d0">Watford</data>
+</node>
+<node id="3522">
+  <data key="d0">Spezia Calcio</data>
+</node>
+<node id="1304">
+  <data key="d0">Heracles Almelo</data>
+</node>
+<node id="197">
+  <data key="d0">Sparta Prague</data>
+</node>
+<node id="1465">
+  <data key="d0">Estoril</data>
+</node>
+<node id="1061">
+  <data key="d0">LA Galaxy</data>
+</node>
+<node id="60551">
+  <data key="d0">SC Dnipro-1</data>
+</node>
+<node id="2497">
+  <data key="d0">Real Oviedo</data>
+</node>
+<node id="410">
+  <data key="d0">Udinese</data>
+</node>
+<node id="16575">
+  <data key="d0">SD Amorebieta</data>
+</node>
+<node id="762">
+  <data key="d0">Newcastle</data>
+</node>
+<node id="1091">
+  <data key="d0">PAOK Salonika</data>
+</node>
+<node id="16">
+  <data key="d0">Bor. Dortmund</data>
+</node>
+<node id="44">
+  <data key="d0">Hertha BSC</data>
+</node>
+<node id="294">
+  <data key="d0">Benfica</data>
+</node>
+<node id="24575">
+  <data key="d0">HNK Gorica</data>
+</node>
+<node id="1075">
+  <data key="d0">SC Braga</data>
+</node>
+<node id="10718">
+  <data key="d0">FC Andorra</data>
+</node>
+<node id="1532">
+  <data key="d0">Albacete</data>
+</node>
+<node id="2420">
+  <data key="d0">Vit. Guimarães</data>
+</node>
+<node id="6195">
+  <data key="d0">Napoli</data>
+</node>
+<node id="281">
+  <data key="d0">Man City</data>
+</node>
+<node id="27">
+  <data key="d0">Bayern Munich</data>
+</node>
+<node id="1041">
+  <data key="d0">Olympique Lyon</data>
+</node>
+<node id="4032">
+  <data key="d0">Ponferradina</data>
+</node>
+<node id="449">
+  <data key="d0">Trabzonspor</data>
+</node>
+<node id="11596">
+  <data key="d0">AD Alcorcón</data>
+</node>
+<node id="3329">
+  <data key="d0">Famalicão</data>
+</node>
+<node id="3948">
+  <data key="d0">Union SG</data>
+</node>
+<node id="9899">
+  <data key="d0">Real Sociedad B</data>
+</node>
+<node id="3187">
+  <data key="d0">TJ Jinmen Tiger</data>
+</node>
+<node id="202">
+  <data key="d0">FC Groningen</data>
+</node>
+<node id="114">
+  <data key="d0">Besiktas</data>
+</node>
+<node id="1158">
+  <data key="d0">FC Lorient</data>
+</node>
+<node id="9265">
+  <data key="d0">Man City U23</data>
+</node>
+<node id="703">
+  <data key="d0">Forest</data>
+</node>
+<node id="6688">
+  <data key="d0">Bilbao Athletic</data>
+</node>
+<node id="11669">
+  <data key="d0">Cádiz B</data>
+</node>
+<node id="10773">
+  <data key="d0">RCD Espanyol B</data>
+</node>
+<node id="6767">
+  <data key="d0">RM Castilla</data>
+</node>
+<node id="3705">
+  <data key="d0">Algeciras CF</data>
+</node>
+<node id="8516">
+  <data key="d0">Osasuna B</data>
+</node>
+<node id="40058">
+  <data key="d0">New York City</data>
+</node>
+<node id="2425">
+  <data key="d0">Rio Ave</data>
+</node>
+<node id="7078">
+  <data key="d0">Valladolid Prom</data>
+</node>
+<node id="200">
+  <data key="d0">FC Utrecht</data>
+</node>
+<node id="7179">
+  <data key="d0">Tondela</data>
+</node>
+<node id="11259">
+  <data key="d0">CD Alcoyano</data>
+</node>
+<node id="11986">
+  <data key="d0">UD Almería B</data>
+</node>
+<node id="6912">
+  <data key="d0">Vizela</data>
+</node>
+<node id="20760">
+  <data key="d0">Bandirmaspor</data>
+</node>
+<node id="720">
+  <data key="d0">FC Porto</data>
+</node>
+<node id="288">
+  <data key="d0">Estudiantes LP</data>
+</node>
+<node id="8494">
+  <data key="d0">RCD Mallorca B </data>
+</node>
+<node id="2865">
+  <data key="d0">Betis Deportivo</data>
+</node>
+<node id="2464">
+  <data key="d0">Barça Atlètic</data>
+</node>
+<node id="614">
+  <data key="d0">Flamengo</data>
+</node>
+<node id="537">
+  <data key="d0">Botafogo</data>
+</node>
+<node id="11422">
+  <data key="d0">CE Sabadell </data>
+</node>
+<node id="38006">
+  <data key="d0">Girona FC B</data>
+</node>
+<node id="39815">
+  <data key="d0">NY Red Bulls II</data>
+</node>
+<node id="19309">
+  <data key="d0">Independiente</data>
+</node>
+<node id="1176">
+  <data key="d0">Racing Ferrol</data>
+</node>
+<node id="12181">
+  <data key="d0">San Fernando CD</data>
+</node>
+<node id="866">
+  <data key="d0">Nacional</data>
+</node>
+<node id="8519">
+  <data key="d0">Sevilla Atl.</data>
+</node>
+<node id="235">
+  <data key="d0">RKC Waalwijk</data>
+</node>
+<node id="12317">
+  <data key="d0">Elche Ilicitano</data>
+</node>
+<node id="24420">
+  <data key="d0">UD Logroñés</data>
+</node>
+<node id="2156">
+  <data key="d0">AEK Larnaca</data>
+</node>
+<node id="206">
+  <data key="d0">Bröndby IF</data>
+</node>
+<node id="171">
+  <data key="d0">Real Murcia</data>
+</node>
+<node id="2470">
+  <data key="d0">Barça U19</data>
+</node>
+<node id="8510">
+  <data key="d0">Getafe CF B</data>
+</node>
+<node id="3631">
+  <data key="d0">América</data>
+</node>
+<node id="18074">
+  <data key="d0">Boston River</data>
+</node>
+<node id="861">
+  <data key="d0">Peñarol</data>
+</node>
+<node id="180">
+  <data key="d0">Southampton</data>
+</node>
+<node id="5026">
+  <data key="d0">Lommel SK</data>
+</node>
+<node id="3679">
+  <data key="d0">Atl. Madrileño</data>
+</node>
+<node id="1420">
+  <data key="d0">Angers SCO</data>
+</node>
+<node id="641">
+  <data key="d0">Middlesbrough</data>
+</node>
+<node id="2424">
+  <data key="d0">Gil Vicente</data>
+</node>
+<node id="993">
+  <data key="d0">Córdoba CF</data>
+</node>
+<node id="4542">
+  <data key="d0">CyD Leonesa</data>
+</node>
+<node id="383">
+  <data key="d0">PSV Eindhoven</data>
+</node>
+<node id="1775">
+  <data key="d0">San Lorenzo</data>
+</node>
+<node id="1059">
+  <data key="d0">Hammarby</data>
+</node>
+<node id="2462">
+  <data key="d0">Fluminense</data>
+</node>
+<node id="45457">
+  <data key="d0">Pafos FC</data>
+</node>
+<node id="52397">
+  <data key="d0">Unionistas CF</data>
+</node>
+<node id="1418">
+  <data key="d0">Rosario Central</data>
+</node>
+<node id="669">
+  <data key="d0">Partizan</data>
+</node>
+<node id="607">
+  <data key="d0">Venezia</data>
+</node>
+<edge source="5358" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5358" target="3709">
+  <data key="d1">3</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5358" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="16486">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="583">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="1084">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="1108">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="79">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="398">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="630">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="1091">
+  <data key="d1">1</data>
+  <data key="d2">400000</data>
+</edge>
+<edge source="237" target="418">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="237" target="641">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="237" target="336">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="399">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="681">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="51828">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="11">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="1075">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="1108">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="13222">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="150" target="449">
+  <data key="d1">1</data>
+  <data key="d2">1250000</data>
+</edge>
+<edge source="399" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="399" target="131">
+  <data key="d1">1</data>
+  <data key="d2">58000000</data>
+</edge>
+<edge source="131" target="989">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="1005">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="7633">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="148">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="543">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="1010">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="1061">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="5">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="24575">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="336">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="631">
+  <data key="d1">1</data>
+  <data key="d2">12000000</data>
+</edge>
+<edge source="131" target="331">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="131" target="405">
+  <data key="d1">1</data>
+  <data key="d2">20000000</data>
+</edge>
+<edge source="131" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="631" target="131">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="631" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="631" target="366">
+  <data key="d1">1</data>
+  <data key="d2">500000</data>
+</edge>
+<edge source="631" target="418">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3368" target="331">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3368" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">1900000</data>
+</edge>
+<edge source="3368" target="1531">
+  <data key="d1">2</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="3368" target="366">
+  <data key="d1">1</data>
+  <data key="d2">500000</data>
+</edge>
+<edge source="3368" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3368" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="3368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="472">
+  <data key="d1">1</data>
+  <data key="d2">250000</data>
+</edge>
+<edge source="331" target="1532">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="1536">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="8516">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="2156">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="1084">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="331" target="123">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="515">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="9168">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="162">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="703">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="410">
+  <data key="d1">1</data>
+  <data key="d2">8000000</data>
+</edge>
+<edge source="13" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="142">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="648">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="13222">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="331">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="206">
+  <data key="d1">1</data>
+  <data key="d2">1750000</data>
+</edge>
+<edge source="13" target="472">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13" target="683">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16795" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16795" target="3709">
+  <data key="d1">2</data>
+  <data key="d2">5750000</data>
+</edge>
+<edge source="16795" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16795" target="366">
+  <data key="d1">2</data>
+  <data key="d2">1200000</data>
+</edge>
+<edge source="681" target="150">
+  <data key="d1">1</data>
+  <data key="d2">10000000</data>
+</edge>
+<edge source="681" target="190">
+  <data key="d1">1</data>
+  <data key="d2">500000</data>
+</edge>
+<edge source="681" target="583">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="3840">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="23826">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="1533">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="1108">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="762">
+  <data key="d1">1</data>
+  <data key="d2">77500000</data>
+</edge>
+<edge source="681" target="123">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="200">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="13222">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="681" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="13613">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="515">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="331">
+  <data key="d1">2</data>
+  <data key="d2">1800000</data>
+</edge>
+<edge source="1050" target="2423">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="11972">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="148">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="1237">
+  <data key="d1">1</data>
+  <data key="d2">17800000</data>
+</edge>
+<edge source="1050" target="3329">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="380">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="3368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1050" target="1010">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1108" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1108" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1108" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1108" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="1108">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="515">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="621">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="681">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="1533">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="3368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="8516">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="13241">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="367" target="993">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="162" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="162" target="418">
+  <data key="d1">1</data>
+  <data key="d2">80000000</data>
+</edge>
+<edge source="714" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="27190">
+  <data key="d1">2</data>
+  <data key="d2">5500000</data>
+</edge>
+<edge source="714" target="1533">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="380">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="16704">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">1000000</data>
+</edge>
+<edge source="714" target="467">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="150">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="281">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="2497">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="3187">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="16795">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="13241">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="1075">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="13222">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="123">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="897">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="714" target="45457">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="648">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="897">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="1084">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="80">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="337">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="2687">
+  <data key="d1">2</data>
+  <data key="d2">1000000</data>
+</edge>
+<edge source="366" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="1536">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="16795">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="630">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="410">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="10718">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="123">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="621">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="7077">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="2425">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="11596">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="39815">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="336">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="366" target="4032">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="648" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="648" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="506" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="336" target="366">
+  <data key="d1">2</data>
+  <data key="d2">9000000</data>
+</edge>
+<edge source="336" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="2321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="515">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="1084">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="11000">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="7077">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="281">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="9265">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="11422">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="12181">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="1532">
+  <data key="d1">1</data>
+  <data key="d2">750000</data>
+</edge>
+<edge source="12321" target="123">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12321" target="171">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="583" target="621">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="1038">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="984">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="3277">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="6600">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="244">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="9840">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="6646">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="681">
+  <data key="d1">1</data>
+  <data key="d2">14000000</data>
+</edge>
+<edge source="940" target="2441">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="2425">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="11972">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="1435">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="235">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="940" target="3631">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="940" target="515">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="7971">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="16795">
+  <data key="d1">4</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="5358">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="1084">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="1533">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="197">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="294">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="6195">
+  <data key="d1">1</data>
+  <data key="d2">16500000</data>
+</edge>
+<edge source="3709" target="12">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="13241">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">4000000</data>
+</edge>
+<edge source="3709" target="4032">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3709" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="897" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1084" target="714">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1084" target="237">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1084" target="150">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1084" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="430" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="430" target="418">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="467">
+  <data key="d1">1</data>
+  <data key="d2">1000000</data>
+</edge>
+<edge source="1049" target="399">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="543">
+  <data key="d1">1</data>
+  <data key="d2">32600000</data>
+</edge>
+<edge source="1049" target="1244">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="44">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="583">
+  <data key="d1">1</data>
+  <data key="d2">18000000</data>
+</edge>
+<edge source="1049" target="449">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="1049" target="1075">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="148">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="2497">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="23826">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1049" target="607">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="630" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="630" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="630" target="131">
+  <data key="d1">1</data>
+  <data key="d2">6000000</data>
+</edge>
+<edge source="2687" target="2441">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="1237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="515">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="366">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="8733">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="472">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="123">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="630">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="418">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="3705">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="6912">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2687" target="16795">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13222" target="2687">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13222" target="621">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13222" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13222" target="13">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13222" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="159">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="1108">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="60551">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="681">
+  <data key="d1">1</data>
+  <data key="d2">20000000</data>
+</edge>
+<edge source="3302" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="515">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="648">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="4032">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="2865">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="16486">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="171">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="18074">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3302" target="5358">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1533" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1533" target="714">
+  <data key="d1">1</data>
+  <data key="d2">4500000</data>
+</edge>
+<edge source="418" target="985">
+  <data key="d1">1</data>
+  <data key="d2">70650000</data>
+</edge>
+<edge source="418" target="430">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="418" target="3709">
+  <data key="d1">2</data>
+  <data key="d2">10000000</data>
+</edge>
+<edge source="418" target="51828">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="418" target="681">
+  <data key="d1">1</data>
+  <data key="d2">6500000</data>
+</edge>
+<edge source="418" target="683">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="418" target="2687">
+  <data key="d1">2</data>
+  <data key="d2">1000000</data>
+</edge>
+<edge source="418" target="12321">
+  <data key="d1">2</data>
+  <data key="d2">11000000</data>
+</edge>
+<edge source="418" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="985" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="985" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="405">
+  <data key="d1">2</data>
+  <data key="d2">31000000</data>
+</edge>
+<edge source="368" target="1095">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="985">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="610">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="234">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="368" target="648">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="131">
+  <data key="d1">1</data>
+  <data key="d2">50000000</data>
+</edge>
+<edge source="368" target="1533">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="2464">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="13222">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="368" target="383">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="405" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="683" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16486" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16486" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1536" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1536" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1536" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="24" target="940">
+  <data key="d1">1</data>
+  <data key="d2">790000</data>
+</edge>
+<edge source="16704" target="714">
+  <data key="d1">1</data>
+  <data key="d2">2500000</data>
+</edge>
+<edge source="148" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="148" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3999" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="9982">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="366">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="1244">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">5500000</data>
+</edge>
+<edge source="1531" target="399">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="232">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="123">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="1536">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="288">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="1176">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="13222">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1531" target="1418">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1421" target="237">
+  <data key="d1">1</data>
+  <data key="d2">2000000</data>
+</edge>
+<edge source="1421" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">8000000</data>
+</edge>
+<edge source="11" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="385">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="630">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="1533">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="10718">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="13222">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="621" target="1536">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="5" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="931" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3612" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="244" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="244" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1244" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1244" target="331">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1244" target="681">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1244" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1244" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1244" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="543" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3840" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="7077" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="142" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="142" target="2687">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="142" target="367">
+  <data key="d1">1</data>
+  <data key="d2">1800000</data>
+</edge>
+<edge source="337" target="366">
+  <data key="d1">1</data>
+  <data key="d2">100000</data>
+</edge>
+<edge source="221" target="3302">
+  <data key="d1">2</data>
+  <data key="d2">8500000</data>
+</edge>
+<edge source="159" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">1100000</data>
+</edge>
+<edge source="1082" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4673" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="23826" target="681">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="23826" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1435" target="621">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1435" target="331">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="79" target="237">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="865" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="398" target="237">
+  <data key="d1">1</data>
+  <data key="d2">8020000</data>
+</edge>
+<edge source="398" target="150">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="398" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="209" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="8733" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1184" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="472" target="150">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="13241" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12" target="418">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="141" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="141" target="368">
+  <data key="d1">1</data>
+  <data key="d2">13000000</data>
+</edge>
+<edge source="417" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="6646" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="11000" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="11000" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2448" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2448" target="368">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="232" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">4000000</data>
+</edge>
+<edge source="11972" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="11972" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1010" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1010" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">980000</data>
+</edge>
+<edge source="3522" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1304" target="940">
+  <data key="d1">1</data>
+  <data key="d2">1400000</data>
+</edge>
+<edge source="1465" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2497" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2497" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="410" target="13">
+  <data key="d1">2</data>
+  <data key="d2">20000000</data>
+</edge>
+<edge source="16575" target="621">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16575" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="762" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1091" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="16" target="418">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="44" target="3709">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1532" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2420" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">8000000</data>
+</edge>
+<edge source="2420" target="367">
+  <data key="d1">1</data>
+  <data key="d2">1500000</data>
+</edge>
+<edge source="2420" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">3000000</data>
+</edge>
+<edge source="281" target="12321">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="27" target="131">
+  <data key="d1">1</data>
+  <data key="d2">45000000</data>
+</edge>
+<edge source="27" target="368">
+  <data key="d1">1</data>
+  <data key="d2">16000000</data>
+</edge>
+<edge source="1041" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1041" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4032" target="331">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4032" target="237">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="4032" target="940">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="11596" target="1049">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3329" target="13">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3948" target="1050">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="9899" target="681">
+  <data key="d1">7</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="9899" target="940">
+  <data key="d1">1</data>
+  <data key="d2">1000000</data>
+</edge>
+<edge source="202" target="940">
+  <data key="d1">1</data>
+  <data key="d2">15040000</data>
+</edge>
+<edge source="114" target="131">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1158" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="6688" target="621">
+  <data key="d1">6</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="11669" target="2687">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="10773" target="714">
+  <data key="d1">5</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="6767" target="418">
+  <data key="d1">3</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="6767" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="8516" target="331">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="40058" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="7078" target="366">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="7179" target="681">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="11259" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="11986" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="20760" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="720" target="940">
+  <data key="d1">1</data>
+  <data key="d2">1000000</data>
+</edge>
+<edge source="8494" target="237">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2865" target="150">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2464" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2464" target="131">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="614" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">7000000</data>
+</edge>
+<edge source="537" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="38006" target="12321">
+  <data key="d1">6</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="19309" target="366">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="866" target="2687">
+  <data key="d1">1</data>
+  <data key="d2">1900000</data>
+</edge>
+<edge source="8519" target="368">
+  <data key="d1">4</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="12317" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="24420" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="2470" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="8510" target="3709">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="861" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="180" target="12321">
+  <data key="d1">1</data>
+  <data key="d2">5500000</data>
+</edge>
+<edge source="5026" target="714">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="3679" target="13">
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1420" target="681">
+  <data key="d1">1</data>
+  <data key="d2">13000000</data>
+</edge>
+<edge source="2424" target="13">
+  <data key="d1">1</data>
+  <data key="d2">6500000</data>
+</edge>
+<edge source="4542" target="367">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1775" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">4000000</data>
+</edge>
+<edge source="1059" target="940">
+  <data key="d1">1</data>
+  <data key="d2">5500000</data>
+</edge>
+<edge source="2462" target="150">
+  <data key="d1">1</data>
+  <data key="d2">10400000</data>
+</edge>
+<edge source="52397" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+</edge>
+<edge source="1418" target="1531">
+  <data key="d1">1</data>
+  <data key="d2">1960000</data>
+</edge>
+<edge source="669" target="3302">
+  <data key="d1">1</data>
+  <data key="d2">3500000</data>
+</edge>
+</graph></graphml>
