@@ -4,10 +4,10 @@ Replication data and code for the paper *Community Structure and Core–Peripher
 Analysis of LaLiga Summer Transfer Networks (2022–2024)*.
 
 The package reconstructs every quantitative result reported in the paper:
-event samples, network topology, centrality rankings, Infomap/Louvain
+event samples, network topology, centrality rankings, Infomap/Louvain/Leiden
 community structure, Borgatti–Everett core–periphery fits, degree-preserving
-null-model significance tests, temporal-consistency metrics, and sensitivity
-analyses.
+null-model significance tests, temporal-consistency metrics, alternative-window
+robustness, and sensitivity analyses.
 
 ## Repository layout
 
@@ -28,7 +28,12 @@ analyses.
 │   ├── core_members.csv      # core members for binary / count / fee matrices
 │   ├── infomap_stability.csv # 30-seed Infomap runs (community counts)
 │   ├── null_fixedk_YYYY.csv  # 5,000 degree-preserving null ρ values, k fixed
-│   └── null_reek_YYYY.csv    # 500 nulls with k re-estimated per null graph
+│   ├── null_reek_YYYY.csv    # 500 nulls with k re-estimated per null graph
+│   ├── leiden_YYYY.csv       # per-club Leiden membership
+│   ├── leiden_benchmark.csv  # Leiden modularity and NMI/ARI benchmarks
+│   ├── alt_window_robustness.csv  # July 1–August 31 core–periphery robustness
+│   ├── null_altwin_YYYY.npy  # 1,000 alternative-window null ρ values
+│   └── figure4_alluvial.*    # community-flow figure (PNG and vector PDF)
 └── scripts/                  # run from the repository root
     ├── build_sample.py       # transfer_history.csv -> events_YYYY.csv
     ├── build_networks.py     # events -> GraphML networks + topology checks
@@ -38,7 +43,10 @@ analyses.
     ├── null_model.py         # 5,000 fixed-k degree-preserving nulls
     ├── null_model_reek.py    # 500 nulls, k re-estimated per null
     ├── temporal_sensitivity.py  # NMI/ARI across windows, core Jaccard, robustness
-    └── infomap_seed_scan.py
+    ├── infomap_seed_scan.py
+    ├── leiden_bench.py       # Leiden benchmark against Infomap and Louvain
+    ├── alt_window.py         # alternative-window fit + 1,000 fixed-k nulls
+    └── alluvial.py           # cross-window LaLiga community-flow figure
 ```
 
 ## Data source and integrity
@@ -61,8 +69,9 @@ Upstream terms of use continue to apply to redistribution and reuse.
 ## Environment
 
 Python 3.10+ with: `pandas`, `numpy`, `networkx`, `python-igraph`,
-`python-louvain`, `scikit-learn`, `scipy`. The official `infomap` package is
-only needed for `communities_official.py` (cross-implementation check).
+`python-louvain`, `leidenalg`, `scikit-learn`, `scipy`, and `matplotlib`.
+The official `infomap` package is only needed for `communities_official.py`
+(cross-implementation check).
 
 ## Reproduction pipeline
 
@@ -76,6 +85,9 @@ python scripts/coreperiphery.py          # core–periphery estimation
 python scripts/null_model.py 2022 5000   # fixed-k nulls (also: 2023, 2024)
 python scripts/null_model_reek.py 2022 500  # re-estimated-k nulls
 python scripts/temporal_sensitivity.py   # temporal consistency & robustness
+python scripts/leiden_bench.py           # Leiden community benchmark
+python scripts/alt_window.py 1000        # alternative-window robustness
+python scripts/alluvial.py               # Figure 4 (PNG + PDF)
 ```
 
 Each script prints its own comparison against the values reported in the
@@ -104,6 +116,14 @@ paper.
 - **Implementation note.** Community counts match the igraph implementation
   of Infomap; the official C++ `infomap` package may return different
   partitions on the same input.
+- **Leiden benchmark.** `leiden_bench.py` uses resolution 1.0 and selects the
+  best weighted modularity over seeds 0–9. Edge weights are passed to
+  `leidenalg` as an explicit list, and every candidate is scored with igraph's
+  weighted modularity for a common objective.
+- **Alternative window.** `alt_window.py` restricts events to July 1–August 31,
+  repeats the binary core–periphery estimation, and runs 1,000 fixed-k
+  degree-preserving nulls per season. Observed ρ = 0.261/0.266/0.275 and
+  p = 0.000999 for 2022/2023/2024.
 
 ## Citation
 

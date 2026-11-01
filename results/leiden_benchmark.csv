@@ -1,0 +1,4 @@
+window,leiden_communities,single_laliga,multi_laliga,modularity,nmi_infomap,ari_infomap,nmi_louvain,ari_louvain
+2022,10,3,7,0.495609,0.787627,0.64224,0.724651,0.624705
+2023,12,6,6,0.491844,0.88493,0.765012,0.843904,0.740277
+2024,8,0,8,0.491215,0.759923,0.529489,0.820244,0.76987
