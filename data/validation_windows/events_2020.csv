@@ -1,0 +1,347 @@
+player_id,season_name,transfer_date,from_team_id,from_team_name,to_team_id,to_team_name,transfer_type,value_at_transfer,transfer_fee,fee_num
+102744,19/20,2020-06-30,714,Espanyol,368,Sevilla FC,Return from loan,1600000,0,0
+111961,20/21,2020-07-21,5,AC Milan,368,Sevilla FC,Transfer,17500000,21700000,21700000
+111961,19/20,2020-07-20,368,Sevilla FC,5,AC Milan,Return from loan,17500000,0,0
+114060,20/21,2020-07-01,3709,Getafe,331,CA Osasuna,Transfer,1200000,3000000,3000000
+114060,19/20,2020-06-30,331,CA Osasuna,3709,Getafe,Return from loan,1200000,0,0
+120629,19/20,2020-08-11,418,Real Madrid,583,Paris SG,Return from loan,13000000,0,0
+126516,19/20,2020-07-21,367,Rayo Vallecano,3368,Levante,Return from loan,950000,0,0
+128223,20/21,2020-07-01,631,Chelsea,13,Atlético Madrid,Transfer,36000000,35000000,35000000
+128223,19/20,2020-06-30,13,Atlético Madrid,631,Chelsea,Return from loan,36000000,0,0
+129386,20/21,2020-08-18,150,Real Betis,336,Sporting CP,Transfer,4000000,4200000,4200000
+129473,19/20,2020-07-20,940,Celta de Vigo,131,Barcelona,Return from loan,9500000,0,0
+129679,19/20,2020-06-30,5358,SD Huesca,3368,Levante,Return from loan,650000,0,0
+130365,19/20,2020-07-20,1049,Valencia,12,AS Roma,Return from loan,16000000,0,0
+131275,20/21,2020-08-04,12321,Girona,2687,Cádiz CF,Transfer,1000000,2500000,2500000
+131275,19/20,2020-07-21,2687,Cádiz CF,12321,Girona,Return from loan,800000,0,0
+131505,20/21,2020-08-29,1049,Valencia,399,Leeds,Transfer,40000000,30000000,30000000
+139341,19/20,2020-07-21,5358,SD Huesca,58,RSC Anderlecht,Return from loan,950000,0,0
+139434,20/21,2020-08-04,3709,Getafe,366,Real Valladolid,Transfer,800000,200000,200000
+139434,19/20,2020-07-20,366,Real Valladolid,3709,Getafe,Return from loan,800000,0,0
+140082,19/20,2020-07-21,1084,Málaga CF,3368,Levante,Return from loan,650000,0,0
+140776,19/20,2020-08-24,13,Atlético Madrid,33304,DL Pro,Return from loan,22500000,0,0
+142419,20/21,2020-07-01,681,Real Sociedad,331,CA Osasuna,Transfer,1200000,250000,250000
+142419,19/20,2020-06-30,331,CA Osasuna,681,Real Sociedad,Return from loan,1200000,0,0
+147524,19/20,2020-07-21,11596,AD Alcorcón,3709,Getafe,Return from loan,800000,0,0
+148355,20/21,2020-08-25,2293,Konyaspor,2687,Cádiz CF,Transfer,1500000,0,0
+154059,20/21,2020-07-29,1533,SD Eibar,5650,Pontevedra CF,Transfer,1200000,0,0
+15799,20/21,2020-08-03,1050,Villarreal,656,Al-Sadd,Transfer,2500000,0,0
+162074,20/21,2020-08-04,16795,Granada CF,940,Celta de Vigo,Transfer,2400000,0,0
+162652,20/21,2020-08-04,648,CD Tenerife,2687,Cádiz CF,Transfer,650000,1000000,1000000
+162652,19/20,2020-07-21,2687,Cádiz CF,648,CD Tenerife,Return from loan,650000,0,0
+166677,19/20,2020-08-24,12321,Girona,2687,Cádiz CF,Return from loan,400000,0,0
+169497,20/21,2020-08-30,1531,Elche CF,331,CA Osasuna,Transfer,475000,3000000,3000000
+170472,20/21,2020-08-04,1010,Watford,16795,Granada CF,Transfer,2000000,2000000,2000000
+170472,19/20,2020-07-20,16795,Granada CF,1010,Watford,Return from loan,2000000,0,0
+171170,20/21,2020-08-04,42039,Salamanca CF ,2687,Cádiz CF,Transfer,250000,0,0
+171362,20/21,2020-08-01,33,FC Schalke 04,5358,SD Huesca,Transfer,950000,1000000,1000000
+171362,19/20,2020-07-21,5358,SD Huesca,33,FC Schalke 04,Return from loan,950000,0,0
+174694,20/21,2020-07-29,368,Sevilla FC,417,OGC Nice,Loan,10000000,0,0
+181619,19/20,2020-06-30,648,CD Tenerife,940,Celta de Vigo,Return from loan,300000,0,0
+183647,20/21,2020-07-01,1050,Villarreal,244,Marseille,Transfer,6500000,4000000,4000000
+183647,19/20,2020-06-30,244,Marseille,1050,Villarreal,Return from loan,6500000,0,0
+18644,20/21,2020-08-04,5432,Al-Nasr,2687,Cádiz CF,Transfer,1600000,0,0
+188157,19/20,2020-07-20,1533,SD Eibar,430,Fiorentina,Return from loan,1200000,0,0
+188651,19/20,2020-06-30,2832,Gaziantep FK,1108,Alavés,Return from loan,2400000,0,0
+188838,20/21,2020-08-11,3368,Levante,366,Real Valladolid,Transfer,1200000,0,0
+18900,20/21,2020-08-01,366,Real Valladolid,515,Without Club,Transfer,4000000,0,0
+198866,20/21,2020-08-26,1531,Elche CF,60949,Volos NPS,Transfer,325000,0,0
+199299,20/21,2020-08-29,419,Dinamo Zagreb,1533,SD Eibar,Transfer,3500000,2000000,2000000
+199369,19/20,2020-07-20,366,Real Valladolid,29,Everton,Return from loan,3200000,0,0
+202984,19/20,2020-07-20,1244,CD Leganés,368,Sevilla FC,Return from loan,5500000,0,0
+203775,20/21,2020-09-02,16795,Granada CF,993,Córdoba CF,Transfer,475000,0,0
+203775,19/20,2020-07-21,2296,CD Numancia,16795,Granada CF,Return from loan,475000,0,0
+203778,20/21,2020-07-01,3368,Levante,123,Retired,Transfer,300000,0,0
+204102,20/21,2020-08-18,1050,Villarreal,1123,Norwich,Loan,4000000,0,0
+205503,19/20,2020-07-20,1244,CD Leganés,368,Sevilla FC,Return from loan,5500000,0,0
+205569,20/21,2020-08-04,13222,CD Mirandés,3368,Levante,Transfer,2500000,0,0
+206947,19/20,2020-07-20,1244,CD Leganés,681,Real Sociedad,Return from loan,2400000,0,0
+207302,19/20,2020-08-24,583,Paris SG,368,Sevilla FC,Return from loan,8000000,0,0
+207834,20/21,2020-08-22,368,Sevilla FC,12321,Girona,Return from loan,3000000,0,0
+207922,19/20,2020-07-21,2497,Real Oviedo,366,Real Valladolid,Return from loan,475000,0,0
+207924,19/20,2020-08-24,12321,Girona,940,Celta de Vigo,Return from loan,1200000,0,0
+213595,19/20,2020-07-21,472,UD Las Palmas,150,Real Betis,Return from loan,550000,0,0
+213670,20/21,2020-08-04,24,E. Frankfurt,331,CA Osasuna,Transfer,2400000,2000000,2000000
+21369,20/21,2020-08-05,131,Barcelona,141,Galatasaray,Transfer,650000,0,0
+216464,19/20,2020-07-20,16795,Granada CF,368,Sevilla FC,Return from loan,3200000,0,0
+221311,20/21,2020-08-27,1531,Elche CF,337,Birmingham,Transfer,650000,0,0
+226073,20/21,2020-08-20,11194,NK Lokomotiva,13,Atlético Madrid,Transfer,2000000,3500000,3500000
+227015,19/20,2020-07-31,5358,SD Huesca,11194,NK Lokomotiva,Return from loan,550000,0,0
+229604,19/20,2020-06-30,969,Montpellier,681,Real Sociedad,Return from loan,8000000,0,0
+234523,19/20,2020-08-31,252,Genoa,150,Real Betis,Return from loan,6500000,0,0
+238471,19/20,2020-08-12,16486,CF Fuenlabrada,2687,Cádiz CF,Return from loan,325000,0,0
+242299,19/20,2020-07-21,29095,Extremadura,1533,SD Eibar,Return from loan,650000,0,0
+242532,20/21,2020-08-24,331,CA Osasuna,1244,CD Leganés,Loan,800000,0,0
+243541,20/21,2020-08-24,1023,Palmeiras,1108,Alavés,Loan,4000000,0,0
+243541,19/20,2020-06-30,3709,Getafe,1023,Palmeiras,Return from loan,4000000,0,0
+246277,19/20,2020-08-17,142,Real Zaragoza,1108,Alavés,Return from loan,1200000,0,0
+246335,19/20,2020-07-21,5358,SD Huesca,3709,Getafe,Return from loan,300000,0,0
+247652,20/21,2020-08-31,4441,Wolfsberger AC,366,Real Valladolid,Transfer,6000000,4000000,4000000
+249471,19/20,2020-07-21,367,Rayo Vallecano,1108,Alavés,Return from loan,725000,0,0
+251106,20/21,2020-08-12,1050,Villarreal,3709,Getafe,Transfer,8000000,9000000,9000000
+251106,19/20,2020-07-20,366,Real Valladolid,1050,Villarreal,Return from loan,4000000,0,0
+251680,19/20,2020-06-30,12321,Girona,331,CA Osasuna,Return from loan,1200000,0,0
+251846,19/20,2020-07-21,630,Racing,2687,Cádiz CF,Return from loan,650000,0,0
+251883,20/21,2020-08-01,161,Al-Wahda,2687,Cádiz CF,Transfer,400000,0,0
+251860,20/21,2020-08-13,1049,Valencia,1532,Albacete,Loan,250000,0,0
+251860,20/21,2020-08-01,6182,Valencia B,1049,Valencia,Transfer,250000,0,0
+251892,19/20,2020-07-20,1244,CD Leganés,368,Sevilla FC,Return from loan,1600000,0,0
+251896,20/21,2020-08-18,418,Real Madrid,16795,Granada CF,Loan,6000000,0,0
+251896,19/20,2020-07-20,16795,Granada CF,418,Real Madrid,Return from loan,6000000,0,0
+254290,20/21,2020-08-20,3368,Levante,443,Vejle BK,Transfer,1600000,0,0
+254290,19/20,2020-06-30,142,Real Zaragoza,3368,Levante,Return from loan,1600000,0,0
+255995,20/21,2020-08-01,3524,Clermont Foot,1050,Villarreal,Transfer,325000,0,0
+256120,19/20,2020-08-17,3302,UD Almería,150,Real Betis,Return from loan,2400000,0,0
+256567,19/20,2020-07-21,897,Dep. La Coruña,5358,SD Huesca,Return from loan,550000,0,0
+260230,20/21,2020-09-01,366,Real Valladolid,16486,CF Fuenlabrada,Loan,400000,0,0
+260230,19/20,2020-07-21,630,Racing,366,Real Valladolid,Return from loan,400000,0,0
+26066,20/21,2020-07-20,1533,SD Eibar,123,Retired,Transfer,650000,0,0
+262389,19/20,2020-06-30,385,Fortuna Sittard,1049,Valencia,Return from loan,325000,0,0
+263860,20/21,2020-08-20,3709,Getafe,1049,Valencia,Return from loan,4800000,0,0
+263856,19/20,2020-07-20,1108,Alavés,150,Real Betis,Return from loan,4000000,0,0
+266795,20/21,2020-09-01,1533,SD Eibar,398,Lazio,Transfer,3200000,0,0
+268946,20/21,2020-08-22,366,Real Valladolid,4032,Ponferradina,Loan,475000,0,0
+268957,19/20,2020-06-30,317,Twente FC,2687,Cádiz CF,Return from loan,650000,0,0
+271451,19/20,2020-07-21,11596,AD Alcorcón,2687,Cádiz CF,Return from loan,475000,0,0
+274862,20/21,2020-07-01,3368,Levante,995,FC Nantes,Transfer,6500000,5000000,5000000
+274862,19/20,2020-06-30,995,FC Nantes,3368,Levante,Return from loan,6500000,0,0
+276111,19/20,2020-08-17,3302,UD Almería,940,Celta de Vigo,Return from loan,1600000,0,0
+277137,20/21,2020-08-04,234,Feyenoord,940,Celta de Vigo,Transfer,2400000,0,0
+280730,19/20,2020-08-24,27,Bayern Munich,418,Real Madrid,Return from loan,16000000,0,0
+281404,19/20,2020-06-30,3709,Getafe,631,Chelsea,Return from loan,9500000,0,0
+281755,20/21,2020-08-04,3709,Getafe,2687,Cádiz CF,Transfer,950000,2000000,2000000
+281755,19/20,2020-07-21,2687,Cádiz CF,3709,Getafe,Return from loan,950000,0,0
+281989,20/21,2020-08-04,648,CD Tenerife,16795,Granada CF,Transfer,1000000,5000000,5000000
+282371,20/21,2020-09-01,3368,Levante,9644,Raków,Transfer,650000,0,0
+282371,19/20,2020-07-21,4032,Ponferradina,3368,Levante,Return from loan,650000,0,0
+282406,21/22,2020-09-02,1532,Albacete,2687,Cádiz CF,Transfer,400000,0,0
+282406,20/21,2020-09-01,3709,Getafe,1532,Albacete,Transfer,400000,0,0
+282406,19/20,2020-07-21,1532,Albacete,3709,Getafe,Return from loan,400000,0,0
+282410,20/21,2020-07-01,3709,Getafe,3302,UD Almería,Transfer,1600000,4000000,4000000
+282410,19/20,2020-06-30,3302,UD Almería,3709,Getafe,Return from loan,1600000,0,0
+282421,19/20,2020-07-21,648,CD Tenerife,1108,Alavés,Return from loan,325000,0,0
+282429,20/21,2020-08-22,368,Sevilla FC,418,Real Madrid,Return from loan,25000000,0,0
+282700,20/21,2020-08-27,1050,Villarreal,12321,Girona,Loan,325000,0,0
+282700,19/20,2020-07-21,13222,CD Mirandés,1050,Villarreal,Return from loan,325000,0,0
+282727,20/21,2020-07-01,2464,Barcelona B,131,Barcelona,Transfer,900000,0,0
+282810,20/21,2020-09-01,131,Barcelona,12,AS Roma,Transfer,9000000,13000000,13000000
+282810,19/20,2020-08-31,12,AS Roma,131,Barcelona,Return from loan,9000000,0,0
+283223,19/20,2020-06-30,683,Olympiacos,940,Celta de Vigo,Return from loan,1200000,0,0
+283489,19/20,2020-07-20,630,Racing,418,Real Madrid,Return from loan,1800000,0,0
+284342,20/21,2020-08-25,1418,Rosario Central,2687,Cádiz CF,Loan,1100000,0,0
+284857,20/21,2020-07-01,131,Barcelona,3709,Getafe,Transfer,18000000,11800000,11800000
+284857,19/20,2020-06-30,3709,Getafe,131,Barcelona,Return from loan,18000000,0,0
+284854,19/20,2020-07-20,150,Real Betis,131,Barcelona,Return from loan,18000000,0,0
+284884,20/21,2020-08-29,418,Real Madrid,368,Sevilla FC,Transfer,15000000,13500000,13500000
+284884,19/20,2020-07-20,1244,CD Leganés,418,Real Madrid,Return from loan,11000000,0,0
+286849,19/20,2020-08-24,12321,Girona,1533,SD Eibar,Return from loan,475000,0,0
+289236,19/20,2020-06-30,1245,KAS Eupen,681,Real Sociedad,Return from loan,1400000,0,0
+289257,19/20,2020-07-21,13222,CD Mirandés,681,Real Sociedad,Return from loan,325000,0,0
+289272,19/20,2020-07-21,13222,CD Mirandés,681,Real Sociedad,Return from loan,800000,0,0
+292604,20/21,2020-08-01,16795,Granada CF,2867,Recr. Huelva,Transfer,250000,0,0
+292604,19/20,2020-06-30,993,Córdoba CF,16795,Granada CF,Return from loan,250000,0,0
+298197,19/20,2020-08-17,3302,UD Almería,1108,Alavés,Return from loan,1200000,0,0
+298976,19/20,2020-07-20,3368,Levante,418,Real Madrid,Return from loan,3200000,0,0
+305956,20/21,2020-08-14,1533,SD Eibar,2687,Cádiz CF,Transfer,475000,0,0
+305956,19/20,2020-07-21,2687,Cádiz CF,1533,SD Eibar,Return from loan,475000,0,0
+30749,20/21,2020-07-20,1050,Villarreal,123,Retired,Transfer,300000,0,0
+311287,19/20,2020-07-20,16795,Granada CF,1533,SD Eibar,Return from loan,1200000,0,0
+315110,20/21,2020-07-01,1050,Villarreal,1041,Olympique Lyon,Transfer,14000000,11500000,11500000
+315110,19/20,2020-06-30,1041,Olympique Lyon,1050,Villarreal,Return from loan,14000000,0,0
+316264,20/21,2020-07-20,681,Real Sociedad,418,Real Madrid,Return from loan,45000000,0,0
+320271,19/20,2020-07-20,331,CA Osasuna,1049,Valencia,Return from loan,1600000,0,0
+321629,19/20,2020-07-21,11000,CD Lugo,366,Real Valladolid,Return from loan,200000,0,0
+32467,20/21,2020-09-01,131,Barcelona,368,Sevilla FC,Transfer,20000000,3500000,3500000
+327126,19/20,2020-07-31,265,Panathinaikos,366,Real Valladolid,Return from loan,1200000,0,0
+328480,19/20,2020-07-27,7179,Tondela,3368,Levante,Return from loan,900000,0,0
+328914,19/20,2020-08-17,142,Real Zaragoza,1049,Valencia,Return from loan,450000,0,0
+329723,19/20,2020-07-20,16795,Granada CF,162,Monaco,Return from loan,3200000,0,0
+331498,20/21,2020-07-21,5358,SD Huesca,162,Monaco,Return from loan,1800000,0,0
+331511,20/21,2020-07-01,2464,Barcelona B,131,Barcelona,Transfer,9000000,0,0
+335216,19/20,2020-07-21,13222,CD Mirandés,621,Athletic,Return from loan,1000000,0,0
+335457,20/21,2020-08-05,1108,Alavés,60,SC Freiburg,Transfer,3000000,3700000,3700000
+335457,19/20,2020-08-04,257,FC St. Gallen,1108,Alavés,Return from loan,3000000,0,0
+336646,20/21,2020-07-08,1050,Villarreal,656,Al-Sadd,Transfer,3200000,1000000,1000000
+336646,19/20,2020-06-30,656,Al-Sadd,1050,Villarreal,Return from loan,3200000,0,0
+336747,20/21,2020-08-04,142,Real Zaragoza,2687,Cádiz CF,Transfer,700000,1200000,1200000
+336747,19/20,2020-07-21,2687,Cádiz CF,142,Real Zaragoza,Return from loan,550000,0,0
+336828,19/20,2020-07-20,940,Celta de Vigo,1041,Olympique Lyon,Return from loan,5500000,0,0
+337070,19/20,2020-08-12,16486,CF Fuenlabrada,366,Real Valladolid,Return from loan,400000,0,0
+337781,20/21,2020-07-28,11516,Atl. Levante,3368,Levante,Transfer,250000,0,0
+339707,19/20,2020-07-21,5358,SD Huesca,410,Udinese,Return from loan,2800000,0,0
+340206,20/21,2020-09-01,621,Athletic,24420,UD Logroñés,Transfer,400000,0,0
+340206,19/20,2020-08-24,1531,Elche CF,621,Athletic,Return from loan,400000,0,0
+340853,20/21,2020-07-01,418,Real Madrid,366,Real Valladolid,Transfer,1200000,3000000,3000000
+340853,19/20,2020-06-30,366,Real Valladolid,418,Real Madrid,Return from loan,1200000,0,0
+340864,20/21,2020-08-24,331,CA Osasuna,7179,Tondela,Loan,300000,0,0
+340864,19/20,2020-07-21,11000,CD Lugo,331,CA Osasuna,Return from loan,300000,0,0
+340867,19/20,2020-07-21,11000,CD Lugo,5358,SD Huesca,Return from loan,300000,0,0
+341227,19/20,2020-06-30,33,FC Schalke 04,131,Barcelona,Return from loan,4000000,0,0
+341272,19/20,2020-07-20,237,RCD Mallorca,368,Sevilla FC,Return from loan,4500000,0,0
+341278,20/21,2020-08-14,1050,Villarreal,13222,CD Mirandés,Loan,300000,0,0
+341278,20/21,2020-08-01,11972,Villarreal CF B,1050,Villarreal,Transfer,300000,0,0
+341317,19/20,2020-07-20,1108,Alavés,984,West Brom,Return from loan,4800000,0,0
+348795,20/21,2020-07-01,150,Real Betis,148,Tottenham,Transfer,40000000,32000000,32000000
+348795,19/20,2020-06-30,148,Tottenham,150,Real Betis,Return from loan,40000000,0,0
+349599,19/20,2020-07-31,331,CA Osasuna,1010,Watford,Return from loan,15000000,0,0
+349856,20/21,2020-08-04,4032,Ponferradina,3368,Levante,Transfer,550000,0,0
+349873,20/21,2020-08-27,940,Celta de Vigo,11422,CE Sabadell ,Loan,650000,0,0
+351892,19/20,2020-07-31,366,Real Valladolid,131,Barcelona,Return from loan,3200000,0,0
+354361,19/20,2020-07-20,1050,Villarreal,931,Fulham,Return from loan,20000000,0,0
+35518,20/21,2020-08-17,281,Man City,681,Real Sociedad,Transfer,12000000,0,0
+355335,19/20,2020-07-21,11596,AD Alcorcón,1108,Alavés,Return from loan,475000,0,0
+355629,20/21,2020-08-04,34148,UCAM Murcia,2687,Cádiz CF,Transfer,250000,0,0
+355763,20/21,2020-08-18,150,Real Betis,1532,Albacete,Transfer,150000,0,0
+355763,19/20,2020-06-30,33593,Lleida Esportiu,150,Real Betis,Return from loan,150000,0,0
+356197,19/20,2020-07-20,150,Real Betis,1050,Villarreal,Return from loan,9500000,0,0
+358115,20/21,2020-08-04,648,CD Tenerife,366,Real Valladolid,Transfer,650000,0,0
+35939,20/21,2020-07-01,1049,Valencia,515,Without Club,Transfer,4800000,0,0
+362842,20/21,2020-09-01,131,Barcelona,506,Juventus,Transfer,56000000,80600000,80600000
+36350,20/21,2020-08-19,150,Real Betis,2503,Boavista,Transfer,1600000,0,0
+36371,19/20,2020-08-31,12,AS Roma,13,Atlético Madrid,Return from loan,5500000,0,0
+364240,19/20,2020-06-30,417,OGC Nice,131,Barcelona,Return from loan,6700000,0,0
+364603,19/20,2020-07-20,331,CA Osasuna,1244,CD Leganés,Return from loan,2000000,0,0
+370691,19/20,2020-08-17,3302,UD Almería,150,Real Betis,Return from loan,2400000,0,0
+371003,20/21,2020-08-31,281,Man City,3709,Getafe,Loan,3600000,0,0
+373683,20/21,2020-08-20,366,Real Valladolid,11000,CD Lugo,Loan,300000,0,0
+373683,20/21,2020-08-01,7078,Valladolid Prom,366,Real Valladolid,Transfer,300000,0,0
+37403,20/21,2020-08-28,379,West Ham,366,Real Valladolid,Transfer,800000,0,0
+37403,19/20,2020-07-20,1108,Alavés,379,West Ham,Return from loan,800000,0,0
+374082,20/21,2020-08-22,331,CA Osasuna,2923,CD Badajoz,Transfer,350000,0,0
+374082,19/20,2020-07-21,2296,CD Numancia,331,CA Osasuna,Return from loan,350000,0,0
+376486,20/21,2020-09-01,368,Sevilla FC,11596,AD Alcorcón,Transfer,1100000,0,0
+376486,19/20,2020-06-30,6767,RM Castilla,368,Sevilla FC,Return from loan,1100000,0,0
+376460,19/20,2020-07-27,7077,FC Cartagena,2687,Cádiz CF,Return from loan,725000,0,0
+378139,19/20,2020-07-20,1244,CD Leganés,150,Real Betis,Return from loan,950000,0,0
+378954,19/20,2020-06-30,273,Stade Rennais,368,Sevilla FC,Return from loan,4800000,0,0
+379530,20/21,2020-08-22,366,Real Valladolid,4032,Ponferradina,Loan,300000,0,0
+379530,20/21,2020-08-01,7078,Valladolid Prom,366,Real Valladolid,Transfer,300000,0,0
+379548,20/21,2020-08-04,6688,Bilbao Athletic,621,Athletic,Transfer,300000,0,0
+379714,20/21,2020-08-01,7078,Valladolid Prom,366,Real Valladolid,Transfer,250000,0,0
+38270,20/21,2020-07-01,2687,Cádiz CF,123,Retired,Transfer,300000,0,0
+38270,19/20,2020-06-30,1532,Albacete,2687,Cádiz CF,Return from loan,300000,0,0
+382773,19/20,2020-07-30,7179,Tondela,5358,SD Huesca,Return from loan,550000,0,0
+385084,19/20,2020-07-21,4032,Ponferradina,3368,Levante,Return from loan,300000,0,0
+396333,20/21,2020-09-02,13,Atlético Madrid,114,Besiktas,Loan,6700000,0,0
+396333,19/20,2020-07-21,897,Dep. La Coruña,13,Atlético Madrid,Return from loan,6700000,0,0
+396324,20/21,2020-08-30,1108,Alavés,1532,Albacete,Loan,200000,0,0
+396324,20/21,2020-08-29,3679,Atl. Madrileño,1108,Alavés,Transfer,200000,0,0
+396328,20/21,2020-08-28,331,CA Osasuna,1244,CD Leganés,Transfer,600000,3000000,3000000
+396328,19/20,2020-07-21,11596,AD Alcorcón,331,CA Osasuna,Return from loan,400000,0,0
+396334,19/20,2020-07-21,13222,CD Mirandés,5358,SD Huesca,Return from loan,300000,0,0
+396337,19/20,2020-08-24,1531,Elche CF,3679,Atl. Madrileño,Return from loan,300000,0,0
+398073,20/21,2020-09-01,418,Real Madrid,46,Inter,Transfer,54000000,43000000,43000000
+398073,19/20,2020-06-30,16,Bor. Dortmund,418,Real Madrid,Return from loan,54000000,0,0
+398131,20/21,2020-08-01,6182,Valencia B,1049,Valencia,Transfer,250000,0,0
+398184,20/21,2020-08-04,1049,Valencia,281,Man City,Transfer,45000000,33500000,33500000
+398886,20/21,2020-08-01,3709,Getafe,327,NK Osijek,Transfer,550000,550000,550000
+398886,19/20,2020-07-31,327,NK Osijek,3709,Getafe,Return from loan,550000,0,0
+399775,20/21,2020-08-25,1050,Villarreal,714,Espanyol,Loan,1200000,0,0
+399775,19/20,2020-07-21,5358,SD Huesca,1050,Villarreal,Return from loan,1200000,0,0
+399780,20/21,2020-08-31,3679,Atl. Madrileño,3709,Getafe,Loan,250000,0,0
+401624,20/21,2020-07-21,2865,Betis Deportivo,150,Real Betis,Transfer,800000,0,0
+40423,20/21,2020-08-30,281,Man City,150,Real Betis,Transfer,1200000,0,0
+404839,19/20,2020-07-21,2497,Real Oviedo,418,Real Madrid,Return from loan,2700000,0,0
+405398,20/21,2020-08-10,418,Real Madrid,1050,Villarreal,Loan,30000000,0,0
+405398,20/21,2020-07-20,237,RCD Mallorca,418,Real Madrid,Return from loan,13500000,0,0
+40888,20/21,2020-07-20,621,Athletic,515,Without Club,Transfer,2400000,0,0
+409106,19/20,2020-08-10,3709,Getafe,512,Stoke City,Return from loan,4000000,0,0
+412669,20/21,2020-08-03,1075,SC Braga,131,Barcelona,Transfer,16000000,30940000,30940000
+413262,19/20,2020-07-21,5358,SD Huesca,1050,Villarreal,Return from loan,1600000,0,0
+417575,19/20,2020-07-31,3329,Famalicão,1049,Valencia,Return from loan,2300000,0,0
+420064,20/21,2020-08-27,13,Atlético Madrid,162,Monaco,Transfer,1200000,8000000,8000000
+422460,20/21,2020-08-04,418,Real Madrid,3368,Levante,Transfer,900000,2000000,2000000
+422460,19/20,2020-07-21,648,CD Tenerife,418,Real Madrid,Return from loan,900000,0,0
+423443,19/20,2020-07-31,3329,Famalicão,1049,Valencia,Return from loan,4500000,0,0
+425028,20/21,2020-08-01,8880,Alavés B,1108,Alavés,Transfer,450000,0,0
+42920,20/21,2020-08-19,331,CA Osasuna,714,Espanyol,Transfer,1200000,0,0
+435022,20/21,2020-08-27,1108,Alavés,327,NK Osijek,Loan,950000,0,0
+435022,19/20,2020-07-21,648,CD Tenerife,1108,Alavés,Return from loan,950000,0,0
+435500,20/21,2020-08-01,11669,Cádiz CF B,2687,Cádiz CF,Transfer,300000,0,0
+44062,20/21,2020-08-20,13,Atlético Madrid,336,Sporting CP,Transfer,800000,0,0
+44162,20/21,2020-09-01,506,Juventus,131,Barcelona,Transfer,45000000,60000000,60000000
+44352,20/21,2020-07-01,131,Barcelona,13,Atlético Madrid,Transfer,28000000,9000000,9000000
+44412,20/21,2020-07-20,1050,Villarreal,123,Retired,Transfer,0,0,0
+44699,20/21,2020-08-15,3709,Getafe,336,Sporting CP,Transfer,1600000,0,0
+447052,19/20,2020-07-21,897,Dep. La Coruña,621,Athletic,Return from loan,3600000,0,0
+449496,19/20,2020-06-30,2296,CD Numancia,366,Real Valladolid,Return from loan,475000,0,0
+455181,20/21,2020-08-04,418,Real Madrid,3368,Levante,Transfer,2000000,6000000,6000000
+455181,19/20,2020-07-21,367,Rayo Vallecano,418,Real Madrid,Return from loan,2000000,0,0
+455349,20/21,2020-08-01,6688,Bilbao Athletic,621,Athletic,Transfer,50000,0,0
+459463,20/21,2020-08-14,1010,Watford,3709,Getafe,Loan,6700000,0,0
+46110,19/20,2020-07-20,1108,Alavés,294,Benfica,Return from loan,2800000,0,0
+461617,20/21,2020-07-01,3679,Atl. Madrileño,13,Atlético Madrid,Transfer,2300000,0,0
+461843,20/21,2020-08-25,368,Sevilla FC,13222,CD Mirandés,Loan,300000,0,0
+461843,20/21,2020-08-01,8519,Sevilla Atl.,368,Sevilla FC,Transfer,300000,0,0
+461858,20/21,2020-08-01,8519,Sevilla Atl.,368,Sevilla FC,Transfer,450000,0,0
+466847,19/20,2020-07-21,4032,Ponferradina,1533,SD Eibar,Return from loan,325000,0,0
+481084,19/20,2020-06-30,13222,CD Mirandés,366,Real Valladolid,Return from loan,650000,0,0
+487688,20/21,2020-09-01,418,Real Madrid,16795,Granada CF,Transfer,2700000,2500000,2500000
+487688,19/20,2020-08-17,142,Real Zaragoza,418,Real Madrid,Return from loan,2700000,0,0
+491541,20/21,2020-07-01,18693,SD Ejea,5358,SD Huesca,Transfer,50000,0,0
+491693,19/20,2020-07-31,3329,Famalicão,13,Atlético Madrid,Return from loan,6700000,0,0
+495629,20/21,2020-07-01,6182,Valencia B,1049,Valencia,Transfer,200000,0,0
+50355,19/20,2020-07-27,940,Celta de Vigo,932,Loko Moscow,Return from loan,7000000,0,0
+503991,20/21,2020-08-01,6182,Valencia B,1049,Valencia,Transfer,200000,0,0
+505673,19/20,2020-07-21,897,Dep. La Coruña,13,Atlético Madrid,Return from loan,4000000,0,0
+505675,20/21,2020-09-02,150,Real Betis,472,UD Las Palmas,Loan,200000,0,0
+505675,20/21,2020-08-01,2865,Betis Deportivo,150,Real Betis,Transfer,200000,0,0
+514514,20/21,2020-08-28,331,CA Osasuna,11596,AD Alcorcón,Loan,300000,0,0
+514514,19/20,2020-08-17,3302,UD Almería,331,CA Osasuna,Return from loan,300000,0,0
+523977,20/21,2020-08-15,6767,RM Castilla,940,Celta de Vigo,Transfer,100000,2500000,2500000
+524000,20/21,2020-08-12,621,Athletic,13222,CD Mirandés,Loan,200000,0,0
+524000,20/21,2020-08-01,6688,Bilbao Athletic,621,Athletic,Transfer,200000,0,0
+52469,20/21,2020-07-20,621,Athletic,515,Without Club,Transfer,4800000,0,0
+524925,19/20,2020-07-21,13222,CD Mirandés,681,Real Sociedad,Return from loan,2700000,0,0
+527698,20/21,2020-08-12,7078,Valladolid Prom,366,Real Valladolid,Transfer,250000,0,0
+527972,20/21,2020-07-01,12317,Elche Ilicitano,1531,Elche CF,Transfer,0,0,0
+531829,19/20,2020-08-24,1531,Elche CF,5358,SD Huesca,Return from loan,725000,0,0
+531824,20/21,2020-08-01,18693,SD Ejea,5358,SD Huesca,Transfer,200000,0,0
+533060,20/21,2020-09-01,1108,Alavés,6878,Bolívar,Transfer,300000,0,0
+533060,19/20,2020-08-12,16486,CF Fuenlabrada,1108,Alavés,Return from loan,300000,0,0
+537382,19/20,2020-07-20,1244,CD Leganés,368,Sevilla FC,Return from loan,9000000,0,0
+538810,19/20,2020-07-27,2923,CD Badajoz,366,Real Valladolid,Return from loan,250000,0,0
+553875,19/20,2020-07-20,366,Real Valladolid,281,Man City,Return from loan,9000000,0,0
+563963,20/21,2020-08-12,366,Real Valladolid,180,Southampton,Transfer,12000000,12000000,12000000
+568158,20/21,2020-08-04,8880,Alavés B,1108,Alavés,Transfer,250000,0,0
+568157,20/21,2020-08-01,12853,FC Villarreal C,1050,Villarreal,Transfer,0,0,0
+568835,20/21,2020-07-17,11516,Atl. Levante,3368,Levante,Transfer,250000,0,0
+571020,20/21,2020-08-04,6688,Bilbao Athletic,621,Athletic,Transfer,2300000,0,0
+573775,20/21,2020-08-27,3709,Getafe,6767,RM Castilla,Loan,1800000,0,0
+573775,20/21,2020-08-01,8510,Getafe CF B,3709,Getafe,Transfer,1800000,0,0
+57522,20/21,2020-08-28,1050,Villarreal,5358,SD Huesca,Transfer,800000,500000,500000
+57825,20/21,2020-08-25,3709,Getafe,16795,Granada CF,Transfer,1600000,0,0
+57935,20/21,2020-08-04,337,Birmingham,2687,Cádiz CF,Transfer,800000,2700000,2700000
+57935,19/20,2020-07-21,2687,Cádiz CF,337,Birmingham,Return from loan,1200000,0,0
+58345,20/21,2020-08-29,1531,Elche CF,13613,Sharjah FC,Transfer,1000000,0,0
+590690,20/21,2020-08-06,366,Real Valladolid,11422,CE Sabadell ,Loan,250000,0,0
+590690,20/21,2020-08-01,7078,Valladolid Prom,366,Real Valladolid,Transfer,250000,0,0
+591375,20/21,2020-08-17,366,Real Valladolid,449,Trabzonspor,Loan,900000,0,0
+593357,19/20,2020-06-30,8733,Celta Vigo B,1531,Elche CF,Return from loan,250000,0,0
+59375,20/21,2020-07-20,681,Real Sociedad,123,Retired,Transfer,1600000,0,0
+59561,20/21,2020-08-12,1049,Valencia,1050,Villarreal,Transfer,20000000,2250000,2250000
+605184,19/20,2020-06-30,33,FC Schalke 04,131,Barcelona,Return from loan,9000000,0,0
+60542,20/21,2020-08-11,12,AS Roma,16795,Granada CF,Transfer,2800000,4000000,4000000
+60542,19/20,2020-08-03,16795,Granada CF,12,AS Roma,Return from loan,2800000,0,0
+60890,20/21,2020-07-20,1533,SD Eibar,366,Real Valladolid,Transfer,1600000,0,0
+610083,20/21,2020-08-01,6688,Bilbao Athletic,621,Athletic,Transfer,1800000,0,0
+618809,20/21,2020-07-01,3679,Atl. Madrileño,13,Atlético Madrid,Transfer,2700000,0,0
+627226,20/21,2020-08-19,418,Real Madrid,16,Bor. Dortmund,Loan,22500000,0,0
+627294,20/21,2020-08-01,11972,Villarreal CF B,1050,Villarreal,Transfer,900000,0,0
+62920,20/21,2020-08-31,114,Besiktas,150,Real Betis,Transfer,3200000,0,0
+65318,19/20,2020-07-20,1049,Valencia,1050,Villarreal,Return from loan,3200000,0,0
+66736,19/20,2020-07-20,1108,Alavés,610,Ajax,Return from loan,4800000,0,0
+682500,19/20,2020-07-21,4032,Ponferradina,2687,Cádiz CF,Return from loan,200000,0,0
+683840,19/20,2020-07-31,472,UD Las Palmas,131,Barcelona,Return from loan,7200000,0,0
+68645,20/21,2020-08-25,1237,Brighton,150,Real Betis,Transfer,6500000,0,0
+70245,19/20,2020-08-24,12321,Girona,3709,Getafe,Return from loan,1200000,0,0
+73321,19/20,2020-07-27,11259,CD Alcoyano,1531,Elche CF,Return from loan,200000,0,0
+74869,20/21,2020-08-12,1049,Valencia,1050,Villarreal,Transfer,14000000,7100000,7100000
+75446,20/21,2020-07-31,1533,SD Eibar,515,Without Club,Transfer,1400000,0,0
+80444,19/20,2020-08-31,27,Bayern Munich,131,Barcelona,Return from loan,56000000,0,0
+85500,19/20,2020-07-21,367,Rayo Vallecano,331,CA Osasuna,Return from loan,650000,0,0
+88490,19/20,2020-07-20,1108,Alavés,368,Sevilla FC,Return from loan,3500000,0,0
+89297,20/21,2020-08-27,336,Sporting CP,1108,Alavés,Loan,4500000,0,0
+98512,20/21,2020-08-18,5358,SD Huesca,589,Antalyaspor,Transfer,1200000,0,0
+98512,19/20,2020-08-03,1467,Göztepe,5358,SD Huesca,Return from loan,1200000,0,0
+98596,19/20,2020-06-30,42,Hannover 96,1108,Alavés,Return from loan,1600000,0,0

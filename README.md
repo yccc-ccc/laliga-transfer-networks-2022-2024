@@ -18,6 +18,7 @@ robustness, and sensitivity analyses.
 │   ├── events_2022.csv       # 540 events, summer window 2022 (2022-06-30..2022-09-02)
 │   ├── events_2023.csv       # 512 events, summer window 2023
 │   ├── events_2024.csv       # 505 events, summer window 2024
+│   ├── validation_windows/   # same protocol, 2019/2020/2021 (hold-out backtest only)
 │   ├── network_2022.graphml  # directed weighted club networks (weight = #events,
 │   ├── network_2023.graphml  #   fee = summed disclosed fees in EUR)
 │   ├── network_2024.graphml
@@ -33,7 +34,9 @@ robustness, and sensitivity analyses.
 │   ├── leiden_benchmark.csv  # Leiden modularity and NMI/ARI benchmarks
 │   ├── alt_window_robustness.csv  # July 1–August 31 core–periphery robustness
 │   ├── null_altwin_YYYY.npy  # 1,000 alternative-window null ρ values
-│   └── figure4_alluvial.*    # community-flow figure (PNG and vector PDF)
+│   ├── backtest_*.csv        # hold-out link-recurrence backtest (section 4.6)
+│   ├── figure4_alluvial.*    # community-flow figure (PNG and vector PDF)
+│   └── figure5_backtest.*    # backtest figure, manuscript Figure 6 (PNG + PDF)
 └── scripts/                  # run from the repository root
     ├── build_sample.py       # transfer_history.csv -> events_YYYY.csv
     ├── build_networks.py     # events -> GraphML networks + topology checks
@@ -46,7 +49,9 @@ robustness, and sensitivity analyses.
     ├── infomap_seed_scan.py
     ├── leiden_bench.py       # Leiden benchmark against Infomap and Louvain
     ├── alt_window.py         # alternative-window fit + 1,000 fixed-k nulls
-    └── alluvial.py           # cross-window LaLiga community-flow figure
+    ├── alluvial.py           # cross-window LaLiga community-flow figure
+    ├── backtest_links.py     # four-fold hold-out backtest of link recurrence
+    └── backtest_figure.py    # backtest figure (PNG + PDF)
 ```
 
 ## Data source and integrity
@@ -88,6 +93,8 @@ python scripts/temporal_sensitivity.py   # temporal consistency & robustness
 python scripts/leiden_bench.py           # Leiden community benchmark
 python scripts/alt_window.py 1000        # alternative-window robustness
 python scripts/alluvial.py               # Figure 4 (PNG + PDF)
+python scripts/backtest_links.py         # four-fold hold-out backtest (section 4.6)
+python scripts/backtest_figure.py        # backtest figure (PNG + PDF)
 ```
 
 Each script prints its own comparison against the values reported in the
@@ -124,6 +131,22 @@ paper.
   repeats the binary core–periphery estimation, and runs 1,000 fixed-k
   degree-preserving nulls per season. Observed ρ = 0.261/0.266/0.275 and
   p = 0.000999 for 2022/2023/2024.
+- **Hold-out backtest.** `backtest_links.py` uses four folds (2019+2020→2021,
+  2020+2021→2022, 2021+2022→2023, 2022+2023→2024) on the 190 LaLiga-internal
+  pairs of each target window (760 observations, 195 positives, base rate
+  0.257). Binary cross-window stability does not predict next-window links
+  (mean AUC 0.522, bootstrap CI 0.496–0.549); the most recent window's tie count
+  does (mean AUC 0.612, CI 0.575–0.652). Screening precision is 0.428 for
+  "≥1 tie last window", 0.437 for "≥2" and 0.530 for "≥3". Ties recur at 0.444
+  overall but at only 0.141 among permanent transfers and 0.136 among
+  fee-bearing ties, so repeated edges are mostly loan/return channels. The
+  closed-world assumption means counterpart clubs first observed in the target
+  window cannot be predicted.
+- **Validation windows.** The 2019–2021 event samples in `data/validation_windows/`
+  follow the identical protocol (`build_sample.py` with the corresponding
+  LaLiga membership sets) and are used only by the backtest; all paper
+  estimates use 2022–2024. The 2020 window is shorter because of the COVID-19
+  calendar and contains 346 events.
 
 ## Citation
 

@@ -1,0 +1,5 @@
+model,auc_mean,auc_sd,ap_mean,share,precision,lift
+last window (0/1),0.671,0.014,0.194,0.067,0.393,5.76
+last-window count,0.672,0.014,0.216,0.067,0.393,5.76
+stable (0/1),0.548,0.011,0.102,0.02,0.369,5.41
+repeated >=2,0.55,0.01,0.116,0.015,0.502,7.36
